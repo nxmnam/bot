@@ -1,0 +1,5 @@
+ติดตั้งใน  CMD
+pip install pythainlp
+pip install nltk
+ pip install tensorflow
+pip install keras
